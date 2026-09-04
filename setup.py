@@ -21,3 +21,6 @@ else:
                 !ls dataset
             else:
                 print("GRESKA: Folder 'dataset' nije pronadjen.")
+
+
+
